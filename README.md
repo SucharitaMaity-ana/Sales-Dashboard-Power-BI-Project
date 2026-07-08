@@ -69,7 +69,7 @@ This project is an interactive **Sales Dashboard** developed using **Microsoft P
 ---
 
 ## 👩‍💻 Author
-  **Sucharita Maity**
+  
 
 **Sucharita Maity**
 
