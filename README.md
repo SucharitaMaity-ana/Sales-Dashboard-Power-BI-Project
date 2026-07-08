@@ -1,6 +1,6 @@
 # 📊 Sales Dashboard | Power BI
 
-![Sales Dashboard](Sales.png)
+![Sales Dashboard](https://github.com/SucharitaMaity-ana/Sales-Dashboard-Power-BI-Project/blob/9743438308ca624b6759c0b16260e962cf2ea17f/Sales%20Dasboard.png)
 
 ## 📌 Project Overview
 
@@ -10,7 +10,7 @@ This project is an interactive **Sales Dashboard** developed using **Microsoft P
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard](Sales.png)
+![Sales Dashboard](https://github.com/SucharitaMaity-ana/Sales-Dashboard-Power-BI-Project/blob/9743438308ca624b6759c0b16260e962cf2ea17f/Sales%20Dasboard.png)
 
 ---
 
